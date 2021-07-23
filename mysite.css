@@ -37,7 +37,16 @@ border-radius: 5px;
 .up:hover{
 color:#F09E06;
 }
+.oringe{
+color: #F07100;
+}
 #head_line{
+border-bottom: 1px solid #399; margin: 5px 3px 10px 0px;
+}
+#head_line_2{
+border-bottom: 1px solid #399; margin: 5px 3px 10px 0px;
+}
+#head_line_3{
 border-bottom: 1px solid #399; margin: 5px 3px 10px 0px;
 }
 .color{
