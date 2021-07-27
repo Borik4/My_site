@@ -10,6 +10,7 @@ a{
 color: #399;
 text-decoration: none;
 }
+
 #herew{
 background-color: #FFFFFF;
 }
@@ -54,9 +55,6 @@ color:373636;
 h2{
 color: #FF6800;
 }
-#gort{
-background-color: #000000;
-}
 .o_color{
 color: #FF6800;
 }
@@ -87,4 +85,7 @@ font-size: 20px;
 color: #399;
 border: 1px solid;
 border-radius: 7px;
+}
+.white_text{
+color: #FFFFFF
 }
