@@ -1,15 +1,17 @@
+.container{
+    margin-right:auto;
+    margin-left:auto;
+    padding-left:390px;
+    padding-right:10px
+    display: flex;
 
+}
 .image{
 max-width: 840px;
 }
 body {
-        margin-right:auto;
-        margin-left:auto;
-        padding-left:390px;
-        padding-right:10px
-        display: flex;
-	 	margin: -380px;
-		padding: 390px;
+	margin: -380px;
+	padding: 390px;
 }
 a {
 color: #399;
@@ -68,6 +70,7 @@ h2{
 color: #aa7444;
 }
 #gort{
+max-width: 1100px;
 background-color: #3a4a59;
 }
 .o_color{
