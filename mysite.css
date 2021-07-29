@@ -4,7 +4,14 @@
     padding-left:390px;
     padding-right:10px
     display: flex;
-
+    }
+.cafe{
+color: white;
+}
+#image{
+width="840";
+height="500";
+}
 }
 .image{
 max-width: 840px;
