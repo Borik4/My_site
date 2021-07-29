@@ -81,7 +81,7 @@ color:#F09E06;
 }
 
 tbody > tr:nth-child(2n - 1) {
-background-color: #e5e8ed;
+  background-color: #e5e8ed;
 }
 
 
@@ -91,6 +91,10 @@ color:373636;
 tbody > tr:nth-child(1) {
 background-color: #C6C6C6;
 }
+tbody > tr:nth-child(1n) {
+  height: 50px;
+}
+
 h2{
 color: #aa7444;
 }
@@ -142,3 +146,9 @@ color: black;
 }
 #hello{
 font-size: 18px;
+}
+td {
+  font-weight: 400;
+  padding-left: 30px;
+  padding-right: 30px;
+  }
