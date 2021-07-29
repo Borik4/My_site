@@ -85,9 +85,6 @@ tbody > tr:nth-child(2n - 1) {
 }
 
 
-#little_text{
-color:373636;
-}
 tbody > tr:nth-child(1) {
 background-color: #C6C6C6;
 }
@@ -152,3 +149,14 @@ td {
   padding-left: 30px;
   padding-right: 30px;
   }
+
+
+.logo {
+  float: left;
+}
+.up {
+  float: right;
+}
+#little_text{
+color: #a8bcd8;
+}
